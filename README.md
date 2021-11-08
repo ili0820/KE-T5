@@ -42,3 +42,7 @@ devSet으로 간단하게 accuracy 측정
 WIC&WIC_TEST
 ---
 WIC과제를 위한 finetune (in progress)
+
+참고자료
+---
+https://youtu.be/r6XY80Z9eSA
