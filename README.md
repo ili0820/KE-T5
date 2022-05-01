@@ -39,9 +39,9 @@ accuracy
 --- 
 devSet으로 간단하게 accuracy 측정
 
-WIC&WIC_TEST
+To Do
 ---
-WIC과제를 위한 finetune (in progress)
+WIC과제를 위한 finetune 
 
 참고자료
 ---
