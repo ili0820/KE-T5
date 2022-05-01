@@ -39,6 +39,10 @@ accuracy
 --- 
 devSet으로 간단하게 accuracy 측정
 
+Result
+---
+리더보드에서 Accuracy	52.27% 달성
+
 To Do
 ---
 WIC과제를 위한 finetune 
